@@ -1,0 +1,12 @@
+<svg width="160" height="60" viewBox="0 0 160 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D62828"/>
+      <stop offset="55%" stop-color="#FF9F1C"/>
+      <stop offset="100%" stop-color="#FFC300"/>
+    </linearGradient>
+  </defs>
+  <circle cx="22" cy="30" r="16" fill="none" stroke="url(#g)" stroke-width="3"/>
+  <circle cx="22" cy="30" r="6" fill="url(#g)"/>
+  <text x="48" y="38" font-family="Playfair Display, serif" font-size="26" font-weight="700" fill="#241814">SUBA <tspan fill="#D62828">STUDIO</tspan></text>
+</svg>
